@@ -2426,4 +2426,9 @@ Noida
 #### Name: [Ítalo Epifânio](https://github.com/itepifanio)
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
-- Github: [Ítalo Epifânio](https://github.com/itepifanio)
+- Github: [Ítalo Epifânio](https://github.com/itepifanio)bb
+
+#### Name: [justkrimzz] (https://github.com/justkrimzz)
+- Place: United States
+- Bio: Computer Science Student
+- GitHub: [justkrimzz] (https://github.com/justkrimzz)
